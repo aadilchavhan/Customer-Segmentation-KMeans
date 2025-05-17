@@ -1,5 +1,3 @@
-# Customer-Segmentation-KMeans
-
 # **Customer Segmentation Using K-Means Clustering on Retail Sales Data**  
 
 ![Customer Segmentation Visualization](https://github.com/aadilchavhan/Customer-Segmentation-KMeans/blob/main/Customer%20Segments%20Based%20on%20Spending%20Patterns.png)  
