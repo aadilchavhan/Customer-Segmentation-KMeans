@@ -2,7 +2,7 @@
 
 # **Customer Segmentation Using K-Means Clustering on Retail Sales Data**  
 
-![Customer Segmentation Visualization](https://github.com/aadilchavhan/customer-segmentation-KMeans/blob/main/customer_segmentation_visual.png)  
+![Customer Segmentation Visualization](https://github.com/aadilchavhan/Customer-Segmentation-KMeans/blob/main/Customer%20Segments%20Based%20on%20Spending%20Patterns.png)  
 
 ## **Overview**  
 This project applies **K-Means clustering** to analyze customer spending patterns from an **Indian retail sales dataset** sourced from Kaggle. By segmenting customers based on purchase behaviors, retailers can optimize **marketing strategies** and improve **customer engagement**.  
